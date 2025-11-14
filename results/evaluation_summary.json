@@ -1,0 +1,82 @@
+{
+  "standard_qlearning_eps_p1.0_nowind": {
+    "mean": -38.60543,
+    "std": 57.1010474905242
+  },
+  "standard_qlearning_eps_p0.7_nowind": {
+    "mean": -38.60543,
+    "std": 57.1010474905242
+  },
+  "standard_qlearning_softmax_p1.0_nowind": {
+    "mean": -38.60543,
+    "std": 57.1010474905242
+  },
+  "standard_qlearning_softmax_p0.7_nowind": {
+    "mean": -38.60543,
+    "std": 57.1010474905242
+  },
+  "standard_qlearning_eps_p1.0_wind": {
+    "mean": -64.23974,
+    "std": 80.24787788304685
+  },
+  "standard_sarsa_eps_p1.0_nowind": {
+    "mean": -38.4415,
+    "std": 56.88168560925388
+  },
+  "standard_sarsa_eps_p0.7_nowind": {
+    "mean": -38.4415,
+    "std": 56.88168560925388
+  },
+  "standard_sarsa_softmax_p1.0_nowind": {
+    "mean": -38.4415,
+    "std": 56.88168560925388
+  },
+  "standard_sarsa_softmax_p0.7_wind": {
+    "mean": -72.36845,
+    "std": 95.616637436157
+  },
+  "fourroom_qlearning_eps_p1.0_goalchange": {
+    "mean": -207.44795,
+    "std": 139.366743632753
+  },
+  "fourroom_qlearning_eps_p0.7_goalchange": {
+    "mean": -207.44795,
+    "std": 139.366743632753
+  },
+  "fourroom_qlearning_softmax_p1.0_goalchange": {
+    "mean": -207.44795,
+    "std": 139.366743632753
+  },
+  "fourroom_qlearning_softmax_p0.7_goalchange": {
+    "mean": -207.44795,
+    "std": 139.366743632753
+  },
+  "fourroom_qlearning_eps_p1.0_fixedgoal": {
+    "mean": -7.00604,
+    "std": 24.201287228542206
+  },
+  "fourroom_qlearning_softmax_p1.0_fixedgoal": {
+    "mean": -5.43362,
+    "std": 15.329091091633583
+  },
+  "fourroom_sarsa_eps_p1.0_goalchange": {
+    "mean": -206.77227,
+    "std": 138.83355923207867
+  },
+  "fourroom_sarsa_eps_p0.7_goalchange": {
+    "mean": -206.77227,
+    "std": 138.83355923207867
+  },
+  "fourroom_sarsa_softmax_p1.0_goalchange": {
+    "mean": -206.77227,
+    "std": 138.83355923207867
+  },
+  "fourroom_sarsa_softmax_p0.7_fixedgoal": {
+    "mean": -5.79732,
+    "std": 23.397708452273697
+  },
+  "fourroom_sarsa_softmax_p1.0_fixedgoal": {
+    "mean": -7.52839,
+    "std": 24.262984441488232
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "standard_qlearning_eps_p1.0_nowind": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.1
+  },
+  "standard_qlearning_eps_p0.7_nowind": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.1
+  },
+  "standard_qlearning_softmax_p1.0_nowind": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.1
+  },
+  "standard_qlearning_softmax_p0.7_nowind": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.1
+  },
+  "standard_qlearning_eps_p1.0_wind": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "epsilon",
+    "param": 0.001
+  },
+  "standard_sarsa_eps_p1.0_nowind": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.1
+  },
+  "standard_sarsa_eps_p0.7_nowind": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.1
+  },
+  "standard_sarsa_softmax_p1.0_nowind": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.1
+  },
+  "standard_sarsa_softmax_p0.7_wind": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "epsilon",
+    "param": 0.001
+  },
+  "fourroom_qlearning_eps_p1.0_goalchange": {
+    "alpha": 0.1,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.01
+  },
+  "fourroom_qlearning_eps_p0.7_goalchange": {
+    "alpha": 0.1,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.01
+  },
+  "fourroom_qlearning_softmax_p1.0_goalchange": {
+    "alpha": 0.1,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.01
+  },
+  "fourroom_qlearning_softmax_p0.7_goalchange": {
+    "alpha": 0.1,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.01
+  },
+  "fourroom_qlearning_eps_p1.0_fixedgoal": {
+    "alpha": 1.0,
+    "gamma": 0.9,
+    "explore": "epsilon",
+    "param": 0.001
+  },
+  "fourroom_qlearning_softmax_p1.0_fixedgoal": {
+    "alpha": 1.0,
+    "gamma": 0.9,
+    "explore": "epsilon",
+    "param": 0.001
+  },
+  "fourroom_sarsa_eps_p1.0_goalchange": {
+    "alpha": 0.1,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.01
+  },
+  "fourroom_sarsa_eps_p0.7_goalchange": {
+    "alpha": 0.1,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.01
+  },
+  "fourroom_sarsa_softmax_p1.0_goalchange": {
+    "alpha": 0.1,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.01
+  },
+  "fourroom_sarsa_softmax_p0.7_fixedgoal": {
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "explore": "softmax",
+    "param": 0.01
+  },
+  "fourroom_sarsa_softmax_p1.0_fixedgoal": {
+    "alpha": 1.0,
+    "gamma": 0.8,
+    "explore": "epsilon",
+    "param": 0.001
+  }
+}
